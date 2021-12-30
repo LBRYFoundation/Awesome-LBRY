@@ -31,7 +31,7 @@ A list of community run projects built on and for the LBRY protocol.
 
 ## Applications
 - [Hound.fm](https://hound.fm) [GitHub repository](https://github.com/Hound-fm) <br>
-     An open source audio media crawler for lbry. Helps you discover and track music and podcasts.
+     An open source audio media crawler for lbry. Helps you discover music and podcasts.
 
 ## Scripts & one-purpose applications
 - [lbrytools](https://github.com/belikor/lbrytools) <br>
