@@ -17,7 +17,7 @@ A list of community run projects built on and for the LBRY protocol.
 - [Actarius LBRY browser](https://github.com/Shroom2020/actarius-lbry-browser)<br>
      Electron based web browser that supports LBRY protocol.
 - [lbry_flutter](https://github.com/dakontiva/lbry_flutter)<br>
-     Flutter based LBRY browser app.
+     Flutter based LBRY browser app.<br>
 -[lbryseed](https://github.com/belikor/lbrydseed)<br>
      Graphical interface to download and seed content to the LBRY network.               
 
