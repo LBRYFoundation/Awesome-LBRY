@@ -22,7 +22,7 @@ A list of community run projects built on and for the LBRY protocol.
      Graphical interface to download and seed content to the LBRY network.               
 
 ## LBRY web-based front-ends
-- (https://madiator.com/)<br>
+- https://madiator.com/ <br>
      P2P Powered LBRY Instance. [GitHub repo](https://github.com/kodxana/madiator.com)
 - [Madiator Speaks](https://speak.madiator.com/)<br>
      An image hosting service on top of the LBRY protocol based on spee.ch. [GitHub repository](https://github.com/kodxana/spee.ch)
@@ -31,7 +31,7 @@ A list of community run projects built on and for the LBRY protocol.
 
 ## Applications
 - [Hound.fm](https://hound.fm/music/latest) [GitHub repository](https://github.com/Hound-fm) <br>
-     Audio content agregator for LBRY.
+     Audio content aggregator based on LBRY.
 
 ## Scripts & one-purpose applications
 - [lbrytools](https://github.com/belikor/lbrytools) <br>
@@ -76,7 +76,7 @@ A list of community run projects built on and for the LBRY protocol.
 
 ## Browser extensions
 - [Watch on LBRY](https://github.com/LBRYFoundation/Watch-on-LBRY)<br>
-     A plugin for web browsers that brings more utility for LBRY Protocol by allowing you to find people you watch on YouTube that are availible on LBRY.tv/Odysee/Desktop App and other LBRY Protocol based apps/websites, allows you to easly check your subscribtion list and much more!
+     A plugin for web browsers that brings more utility for LBRY Protocol by allowing you to find people you watch on YouTube that are available on LBRY.tv/Odysee/Desktop App and other LBRY Protocol based apps/websites, allows you to easily check your subscribtion list and much more!
 - Watch on Odysee [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/watch-on-odysee/) [Chromium](https://chrome.google.com/webstore/detail/watch-on-odysee/kofmhmemalhemmpkfjhjfkkhifonoann) [GitHub](https://github.com/kodxana/Watch-on-Odysee) <br>
      Plugin that automatically redirects you to the Odysee version of any video on YouTube that is available on Odysee.
 - Watch on LBRY [Firefox](https://addons.mozilla.org/en-US/firefox/addon/watch-on-lbry/) [Chromium](https://chrome.google.com/webstore/detail/watch-on-lbry/jjmbbhopnjdjnpceiecihldbhibchgek) [GitHub](https://github.com/LBRYFoundation/Watch-on-LBRY) <br>
