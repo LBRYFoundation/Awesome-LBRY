@@ -30,8 +30,8 @@ A list of community run projects built on and for the LBRY protocol.
      Bot listing Odysee live streams.
 
 ## Applications
-- [Hound.fm](https://hound.fm/music/latest) [GitHub repository](https://github.com/Hound-fm) <br>
-     Audio content agregator for LBRY.
+- [Hound.fm](https://hound.fm) [GitHub repository](https://github.com/Hound-fm) <br>
+     An open source audio media crawler for lbry. Helps you discover and track music and podcasts.
 
 ## Scripts & one-purpose applications
 - [lbrytools](https://github.com/belikor/lbrytools) <br>
