@@ -1,7 +1,19 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# Awesome-LBRY-Projects
+# Awesome-LBRY-Projects <!-- omit in toc -->
 A list of community run projects built on and for the LBRY protocol.
+
+## Contents
+- [Contents](#contents)
+- [LBRY clients](#lbry-clients)
+- [LBRY web-based front-ends](#lbry-web-based-front-ends)
+- [Applications](#applications)
+- [Scripts & one-purpose applications](#scripts--one-purpose-applications)
+- [Analytics](#analytics)
+- [LBRY infrastructure monitoring](#lbry-infrastructure-monitoring)
+- [Browser extensions](#browser-extensions)
+- [LBC wallets](#lbc-wallets)
+- [LBC mining pools](#lbc-mining-pools)
 
 ## LBRY clients
 - [FastLBRY Terminal](https://notabug.org/jyamihud/FastLBRY-terminal) <br>
