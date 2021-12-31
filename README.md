@@ -28,13 +28,14 @@ A list of community run projects built on and for the LBRY protocol.
 - https://madiator.com/ - [GitHub](https://github.com/kodxana/madiator.com) - P2P Powered LBRY Instance.
 - [Madiator Speaks](https://speak.madiator.com/) - [GitHub](https://github.com/kodxana/spee.ch) - An image hosting service on top of the LBRY protocol based on spee.ch.
 - [Odysee chatter](https://live.odysee-chatter.com/) - Bot listing Odysee live streams.
-- [Hound.fm](https://hound.fm) - [GitHub](https://github.com/Hound-fm) - An open source audio media crawler for lbry. Helps you discover music and podcasts.
+- [Hound.fm](https://hound.fm) - [GitHub](https://github.com/Hound-fm/web) - Discover music and podcasts.
 
 ## Tools
 - [lbryseed](https://github.com/belikor/lbrydseed) - Graphical interface to download and seed content to the LBRY network.
 - [lbt](https://gitlab.com/gardenappl/lbt) - lbt is a collection of command-line tools for interacting with the LBRY network, written in POSIX shell.
 - [lbrytools](https://github.com/belikor/lbrytools) - A library of functions that can be used to manage the download of claims from the LBRY network. It includes methods to download claims by URI (canonical url), claim ID, or from specific channels.
 - [wol-api](https://github.com/devbrones/wol-api) - WOL-API (API for future impl. in Watch-on-LBRY)
+- [Podcatcher](https://github.com/Hound-fm/podcatcher) - An open source audio media crawler for lbry. Helps you discover music and podcasts.
 
 ## Applications bots and addons
 - [lbry_discord_repost_bot](https://github.com/neofutur/lbry_discord_repost_bot) - Discord bot to post new uploads on a LBRY channel to a specific discord channel.
