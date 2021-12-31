@@ -61,7 +61,7 @@ A list of community run projects built on and for the LBRY protocol.
 
 ## Analytics
 - [LBRYnomics](https://lbrynomics.com/) - A website with tons of data on the top channels on the LBRY protocol, general data widgets and graphs.
-- [LBRYlitics](https://www.lbryly§tics.com/) -  A tool to visualize your stats pulled from LBRYio ChainQuery, LBRY API and CryptoCompare public APIs to get your data and is in no way affiliated with LBRY, Inc.
+- [LBRYlitics](https://www.lbrylytics.com/) -  A tool to visualize your stats pulled from LBRYio ChainQuery, LBRY API and CryptoCompare public APIs to get your data and is in no way affiliated with LBRY, Inc.
 
 ## LBRY infrastructure monitoring
 - https://status.madiator.com/ - Madiator uptime tracker
