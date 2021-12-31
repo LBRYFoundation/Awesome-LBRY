@@ -3,8 +3,7 @@
 # Awesome-LBRY-Projects <!-- omit in toc -->
 A list of community run projects built on and for the LBRY protocol.
 
-## Contents
-- [Contents](#contents)
+## Contents <!-- omit in toc -->
 - [LBRY clients](#lbry-clients)
 - [LBRY web-based front-ends](#lbry-web-based-front-ends)
 - [Applications](#applications)
