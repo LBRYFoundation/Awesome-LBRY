@@ -46,7 +46,7 @@ A list of community run projects built on and for the LBRY protocol.
      - Estimate your LBRY seeding ratio with this little Python script
 - [LBRYFileUploader](https://github.com/Blanxs/LBRYFileUploader) - Java based mass file uploader for LBRY.
 - [lbry_discord_repost_bot](https://github.com/neofutur/lbry_discord_repost_bot) - Discord bot to post new uploads on a LBRY channel to a specific discord channel.
-- [lbry-cloner](https://github.com/johndoe0039/lbry-cloner) - This program downloads videos from youtube and uploades them to LBRY.
+- [lbry-cloner](https://github.com/johndoe0039/lbry-cloner) - This program downloads videos from YouTube and uploades them to LBRY.
 - [lbry-resigner](https://github.com/nikooo777/lbry-resigner) - Tool to resign streams with an existing channel [lbry-resigner tutorial](https://odysee.com/@LBRYClass:f/odysee-resigner:b)
 - [blogchain](https://github.com/lyoshenka/blogchain) - Blogging with LBRY and Gatsby.
 - [lbry-trending-algos](https://github.com/eggplantbren/lbry-trending-algos) - Various LBRY trending algorithms by Brendon Brewer.
@@ -55,23 +55,22 @@ A list of community run projects built on and for the LBRY protocol.
 - [LBRY on Kodi](https://github.com/stellartux/plugin.video.lbry) - This is a Kodi addon for allowing access to the Lbry network.         
 
 ## Analytics
-- [LBRYnomics](https://lbrynomics.com/) - 
-- [LBRYlitics](https://www.lbrylytics.com/) - 
+- [LBRYnomics](https://lbrynomics.com/) - A website with tons of data on the top channels on the LBRY protocol, general data widgets and graphs.
+- [LBRYlitics](https://www.lbryly§tics.com/) -  A tool to visualize your stats pulled from LBRYio ChainQuery, LBRY API and CryptoCompare public APIs to get your data and is in no way affiliated with LBRY, Inc.
 
 ## LBRY infrastructure monitoring
-- https://status.madiator.com/ -
-- https://nodes.madiator.com/ -
+- https://status.madiator.com/ - Madiator uptime tracker
+- https://nodes.madiator.com/ - Public LBRY Blockchain Network Overview
 
 ## Browser extensions
-- Watch on LBRY [Firefox](https://addons.mozilla.org/en-US/firefox/addon/watch-on-lbry/?src=search) [Chromium](https://chrome.google.com/webstore/detail/watch-on-lbry/jjmbbhopnjdjnpceiecihldbhibchgek) [GitHub](https://github.com/LBRYFoundation/Watch-on-LBRY) - A plugin for web browsers that brings more utility for LBRY Protocol by allowing you to find people you watch on YouTube that are available on LBRY.tv / Odysee / Desktop App and other LBRY Protocol based apps/websites, allows you to easily check your subscribtion list and much more!
 - Watch on Odysee [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/watch-on-odysee/) [Chromium](https://chrome.google.com/webstore/detail/watch-on-odysee/kofmhmemalhemmpkfjhjfkkhifonoann) [GitHub](https://github.com/kodxana/Watch-on-Odysee) - Plugin that automatically redirects you to the Odysee version of any video on YouTube that is available on Odysee.
-- Watch on LBRY [Firefox](https://addons.mozilla.org/en-US/firefox/addon/watch-on-lbry/) [Chromium](https://chrome.google.com/webstore/detail/watch-on-lbry/jjmbbhopnjdjnpceiecihldbhibchgek) [GitHub](https://github.com/LBRYFoundation/Watch-on-LBRY) - Plug that automatically redirects you to the LBRY network when it detects that the YouTube video is there.
+- Watch on LBRY [Firefox](https://addons.mozilla.org/en-US/firefox/addon/watch-on-lbry/) [Chromium](https://chrome.google.com/webstore/detail/watch-on-lbry/jjmbbhopnjdjnpceiecihldbhibchgek) [GitHub](https://github.com/LBRYFoundation/Watch-on-LBRY) - Plugin for web browsers that allows you to find people you watch on YouTube that are available on the LBRY Protocol, allows you to easily check your subscribtion list and much more!
 - LBRY Link [Chromium](https://chrome.google.com/webstore/detail/lbry-link/bnhpdmdbfbnopgncbpgdkidpnmkbidfa) [GitHub](https://github.com/seanyesmunt/lbry-link) - Makes `lbry://` links clickable.
 - LBC Today [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/lbc/) [Chromium](https://chrome.google.com/webstore/detail/lbc-today/ealgadmpgaefckfpclemccenfkjihedn) [GitHub](https://github.com/VladHZC/lbc-today/) - Check LBC price live on your browser.     
 
 ## LBC wallets
-- [LBRY Vault for Ledger devices](https://github.com/LBRYFoundation/LBRY-Vault) - 
-- [Coinomi](www.coinomi.com) -
+- [LBRY Vault for Ledger devices](https://github.com/LBRYFoundation/LBRY-Vault) - Lightweight LBRY Credit client, based on Electrum.
+- [Coinomi](https://www.coinomi.com) - A closeds-source blockchain wallet with LBC support along with 1,700+ more cryptocurrencies.
 
 ## LBC mining pools
-- [Lbrypool](https://lbrypool.net/) - Fork of the yiimp Mining Pool focused on compatibility for mining LBRY Credits. (https://github.com/LBRYFoundation/pool)
+- [Lbrypool](https://lbrypool.net/) [GitHub](https://github.com/LBRYFoundation/pool) - Fork of the yiimp Mining Pool focused on compatibility for mining LBRY Credits.
