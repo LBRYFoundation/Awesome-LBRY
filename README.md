@@ -18,6 +18,7 @@ A list of community run projects built on and for the LBRY protocol.
 
 ## LBRY clients
 - [FastLBRY Terminal](https://notabug.org/jyamihud/FastLBRY-terminal) - A fully featured, terminal application to interact with LBRY. It will allow watching videos, download files, view and send comments, upload new files.
+- [Odysee Unofficial (Roku App)](https://channelstore.roku.com/en-gb/details/9c8df00ea3b378467cfced954e1aa40e/odysee-unofficial) - A unofficial Odysee app which is on Roku.
 - [FastLBRY-GTK](https://notabug.org/jyamihud/FastLBRY-GTK) - GTK version of FastLBRY.
 - [LBRY-GTK](https://codeberg.org/MorsMortium/LBRY-GTK) - Another GTK version of FastLBRY.
 - [LyBerry](https://notabug.org/MyBeansAreBaked/lyberry) - A LBRY client. Uses Qt or Curses and written in Python.
