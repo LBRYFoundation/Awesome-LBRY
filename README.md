@@ -20,6 +20,7 @@ A list of community run projects built on and for the LBRY protocol.
 - [FastLBRY Terminal](https://notabug.org/jyamihud/FastLBRY-terminal) - A fully featured, terminal application to interact with LBRY. It will allow watching videos, download files, view and send comments, upload new files.
 - [Odysee Unofficial (Roku App)](https://github.com/OdyseeTeam/odysee-roku) - A unofficial Odysee app which is on Roku.
 - [FastLBRY-GTK](https://notabug.org/jyamihud/FastLBRY-GTK) - GTK version of FastLBRY.
+- [LBRY App - Community Edition](https://github.com/lbry-foss/lbry-desktop) - A fork of the LBRY desktop app with no analytics and also adds some features back.
 - [LBRY-GTK](https://codeberg.org/MorsMortium/LBRY-GTK) - Another GTK version of FastLBRY.
 - [LyBerry](https://notabug.org/MyBeansAreBaked/lyberry) - A LBRY client. Uses Qt or Curses and written in Python.
 - [Actarius LBRY browser](https://github.com/Shroom2020/actarius-lbry-browser) - Electron based web browser that supports LBRY protocol.
