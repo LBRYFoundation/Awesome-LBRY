@@ -36,6 +36,7 @@ A list of community run projects built on and for the LBRY protocol.
 - [lbryseed](https://github.com/belikor/lbrydseed) - Graphical interface to download and seed content to the LBRY network.
 - [lbt](https://gitlab.com/gardenappl/lbt) - lbt is a collection of command-line tools for interacting with the LBRY network, written in POSIX shell.
 - [lbrytools](https://github.com/belikor/lbrytools) - A library of functions that can be used to manage the download of claims from the LBRY network. It includes methods to download claims by URI (canonical url), claim ID, or from specific channels.
+- [Email Over Blockchain](https://github.com/mlibre/email-on-blockchain) - Uses the LBRY blockchain to allow you to send emails as claims. 
 - [wol-api](https://github.com/devbrones/wol-api) - WOL-API (API for future impl. in Watch-on-LBRY)
 - [Podcatcher](https://github.com/Hound-fm/podcatcher) - An open source audio media crawler for lbry. Helps you discover music and podcasts.
 
