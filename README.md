@@ -44,6 +44,7 @@ A list of community run projects built on and for the LBRY protocol.
 ## Applications bots and addons
 - [lbry_discord_repost_bot](https://github.com/neofutur/lbry_discord_repost_bot) - Discord bot to post new uploads on a LBRY channel to a specific discord channel.
 - [LBRY on Kodi](https://github.com/stellartux/plugin.video.lbry) - This is a Kodi addon for allowing access to the Lbry network.
+- [Curate](https://github.com/LBRYFoundation/curate) - A discord bot that works through the LBRY SDK to allow placing supports on content creators channels.
 
 
 ## Scripts
@@ -82,5 +83,7 @@ A list of community run projects built on and for the LBRY protocol.
 - [LBRY Vault for Ledger devices](https://github.com/LBRYFoundation/LBRY-Vault) - Lightweight LBRY Credit client, based on Electrum.
 - [Coinomi](https://www.coinomi.com) - A closeds-source blockchain wallet with LBC support along with 1,700+ more cryptocurrencies.
 
-## LBC mining pools
+## LBC mining pools - [LBRYPools Discord](https://discord.gg/lbrypool)
 - [LBRYPool](https://lbrypool.net/) - [GitHub](https://github.com/LBRYFoundation/pool) - Fork of the yiimp Mining Pool focused on compatibility for mining LBRY Credits.
+- [LBRYPool DE](https://lbrypool.de) - A clone of LBRYPool originating in Germany, not affiliated with LBRYPool.net.
+- [ZergPool](https://zergpool.net) - A Multi-Coin Mining Pool based on Yiimp that now supports LBC Mining.
