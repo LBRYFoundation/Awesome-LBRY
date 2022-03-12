@@ -27,6 +27,7 @@ A list of community run projects built on and for the LBRY protocol.
 - [lbry_flutter](https://github.com/dakontiva/lbry_flutter) - Flutter based LBRY browser app.
 
 ## LBRY web-based front-ends
+- [lbry.science](https://lbry.science/) - [Source Code](https://codeberg.org/EinoHR/lbry.science) - A highly censored, highly curated science-content-based portal built on the LBRY infrastructure
 - https://madiator.com/ - [GitHub](https://github.com/kodxana/madiator.com) - P2P Powered LBRY Instance.
 - [Madiator Speaks](https://speak.madiator.com/) - [GitHub](https://github.com/kodxana/spee.ch) - An image hosting service on top of the LBRY protocol based on spee.ch.
 - [Odysee chatter](https://live.odysee-chatter.com/) - Bot listing Odysee live streams.
