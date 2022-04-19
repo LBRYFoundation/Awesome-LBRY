@@ -22,7 +22,7 @@ A list of community run projects built on and for the LBRY protocol.
 - [FastLBRY-GTK](https://notabug.org/jyamihud/FastLBRY-GTK) - GTK version of FastLBRY.
 - [LBRY App - Community Edition](https://github.com/lbry-foss/lbry-desktop) - A fork of the LBRY desktop app with no analytics and also adds some features back.
 - [LBRY-GTK](https://codeberg.org/MorsMortium/LBRY-GTK) - Another GTK version of FastLBRY.
-- [LyBerry](https://notabug.org/MyBeansAreBaked/lyberry) - A LBRY client. Uses Qt or Curses and written in Python.
+- [LyBerry](https://notabug.org/MyBeansAreBaked/lyberry) (self hosted [Gitea](https://git.thebeanbakery.xyz/beans/lyberry_qt)) - A LBRY client. It uses Python, Qt, and the [lyberry_api](https://git.thebeanbakery.xyz/beans/lyberry_api) library.
 - [Actarius LBRY browser](https://github.com/Shroom2020/actarius-lbry-browser) - Electron based web browser that supports LBRY protocol.
 - [lbry_flutter](https://github.com/dakontiva/lbry_flutter) - Flutter based LBRY browser app.
 
@@ -38,6 +38,7 @@ A list of community run projects built on and for the LBRY protocol.
 - [lbrytools](https://github.com/belikor/lbrytools) - A Python library with various methods built on top of the terminal `lbrynet` client. It includes methods to download and manage multiple claims, list downloaded claims, list the existing blobs, add, remove and change the support to claims, calculate the seeding ratio, and others. It includes various tools inspired by [Brendon Brewer](https://odysee.com/$/list/3a8c64f781ab2ed2d17f8f808c708a5ee0b04423), tuxfoo, miko, and other members of the community.
 - [zeedit](https://github.com/belikor/zeedit) - A terminal program to download claims from specific channels by using a configuration file. This program can be used in a headless server to create a seedbox. It is based on [lbrytools](https://github.com/belikor/lbrytools).
 - [lbrydseed](https://github.com/belikor/lbrydseed) - Graphical interface to perform various actions on the LBRY network. It is basically a graphical interface to many methods of the [lbrytools](https://github.com/belikor/lbrytools) library.
+- [lyberry_api](https://git.thebeanbakery.xyz/beans/lyberry_api) - A Python library that helps to interface with `lbrynet` in an simple way so that making LBRY clients is easy. This is used by [LyBerry](https://git.thebeanbakery.xyz/beans/lyberry_qt).
 - [lbt](https://gitlab.com/gardenappl/lbt) - lbt is a collection of command-line tools for interacting with the LBRY network, written in POSIX shell.
 - [Email Over Blockchain](https://github.com/mlibre/email-on-blockchain) - Uses the LBRY blockchain to allow you to send emails as claims. 
 - [wol-api](https://github.com/devbrones/wol-api) - WOL-API (API for future impl. in Watch-on-LBRY)
