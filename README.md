@@ -25,6 +25,7 @@ A list of community run projects built on and for the LBRY protocol.
 - [LyBerry](https://notabug.org/MyBeansAreBaked/lyberry) - A LBRY client. Uses Qt or Curses and written in Python.
 - [Actarius LBRY browser](https://github.com/Shroom2020/actarius-lbry-browser) - Electron based web browser that supports LBRY protocol.
 - [lbry_flutter](https://github.com/dakontiva/lbry_flutter) - Flutter based LBRY browser app.
+- [lbrarian](https://codeberg.org/librarian/librarian) - A self-hostable alternative frontend for LBRY/Odysee. Inspired by Invidious and Libreddit.
 
 ## LBRY web-based front-ends
 - [lbry.science](https://lbry.science/) - [Source Code](https://codeberg.org/EinoHR/lbry.science) - A highly censored, highly curated science-content-based portal built on the LBRY infrastructure
