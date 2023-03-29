@@ -33,7 +33,7 @@ A list of community run projects built on and for the LBRY protocol.
 - [Madiator Speaks](https://speak.madiator.com/) - [GitHub](https://github.com/kodxana/spee.ch) - An image hosting service on top of the LBRY protocol based on spee.ch.
 - [Odysee chatter](https://live.odysee-chatter.com/) - Bot listing Odysee live streams.
 - [Hound.fm](https://hound.fm) - [GitHub](https://github.com/Hound-fm/web) - Discover music and podcasts.
-- [Librarian](https://lbry.bcow.xyz/) - [Codeberg](https://codeberg.org/librarian/librarian) - An alternative frontend to Odysee that is lightweight and has no tracking. It is inspired by Invidious, so anybody can set up an instance.
+- [Librarian](https://codeberg.org/librarian/librarian#instances) - [Codeberg](https://codeberg.org/librarian/librarian) - An alternative frontend to Odysee that is lightweight and has no tracking. It is inspired by Invidious, so anybody can set up an instance.
 
 ## Tools
 - [lbrytools](https://github.com/belikor/lbrytools) - A Python library with various methods built on top of the terminal `lbrynet` client. It includes methods to download and manage multiple claims, list downloaded claims, list the existing blobs, add, remove and change the support to claims, calculate the seeding ratio, and others. It includes various tools inspired by [Brendon Brewer](https://odysee.com/$/list/3a8c64f781ab2ed2d17f8f808c708a5ee0b04423), tuxfoo, miko, and other members of the community.
