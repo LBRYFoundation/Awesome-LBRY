@@ -15,17 +15,17 @@ The LBRY Foundation does not provide guarantee for the listed projects not under
 - [LBRY infrastructure monitoring](#lbry-infrastructure-monitoring)
 - [Browser extensions](#browser-extensions)
 - [LBC wallets](#lbc-wallets)
-- [LBC mining pools](#lbc-mining-pools)
+- [LBC mining pools](#lbc-mining-pools-and-tools)
 
 ## LBRY clients
 - [LBRY-GTK](https://codeberg.org/MorsMortium/LBRY-GTK) - GTK version of FastLBRY.
-- [FastLBRY Terminal](https://notabug.org/jyamihud/FastLBRY-terminal) - A fully featured, terminal application to interact with LBRY. It will allow watching videos, download files, view and send comments, upload new files.
+<!-- - [FastLBRY Terminal](https://notabug.org/jyamihud/FastLBRY-terminal) - A fully featured, terminal application to interact with LBRY. It will allow watching videos, download files, view and send comments, upload new files.
 - [Odysee Unofficial (Roku App)](https://github.com/OdyseeTeam/odysee-roku) - A unofficial Odysee app which is on Roku.
-- [FastLBRY-GTK](https://notabug.org/jyamihud/FastLBRY-GTK) - GTK version of FastLBRY.
+- [FastLBRY-GTK](https://notabug.org/jyamihud/FastLBRY-GTK) - GTK version of FastLBRY. 
 - [LBRY App - Community Edition](https://github.com/lbry-foss/lbry-desktop) - A fork of the LBRY desktop app with no analytics and also adds some features back.
 - [LyBerry](https://notabug.org/MyBeansAreBaked/lyberry) - A LBRY client. Uses Qt or Curses and written in Python.
 - [Actarius LBRY browser](https://github.com/Shroom2020/actarius-lbry-browser) - Electron based web browser that supports LBRY protocol.
-- [lbry_flutter](https://github.com/dakontiva/lbry_flutter) - Flutter based LBRY browser app.
+- [lbry_flutter](https://github.com/dakontiva/lbry_flutter) - Flutter based LBRY browser app.  -->
 
 ## LBRY web-based front-ends
 [Odysee](https://odysee.com)
@@ -33,8 +33,8 @@ The LBRY Foundation does not provide guarantee for the listed projects not under
 - [LBRY Worm](https://www.lbryworm.com/) - Allows you to search books from the LBRY blockchain
 - https://madiator.com/ - [GitHub](https://github.com/kodxana/madiator.com) - P2P Powered LBRY Instance.
 - [Madiator Speaks](https://speak.madiator.com/) - [GitHub](https://github.com/kodxana/spee.ch) - An image hosting service on top of the LBRY protocol based on spee.ch.
-- [Odysee chatter](https://live.odysee-chatter.com/) - Bot listing Odysee live streams.
-- [Hound.fm](https://hound.fm) - [GitHub](https://github.com/Hound-fm/web) - Discover music and podcasts. -->
+- [Odysee chatter](https://live.odysee-chatter.com/) - Bot listing Odysee live streams. -->
+- Hound.fm - [GitHub](https://github.com/Hound-fm/web) - Discover music and podcasts (Deprecated but code available)
 
 ## Tools
 - [lbrytools](https://github.com/belikor/lbrytools) - A Python library with various methods built on top of the terminal `lbrynet` client. It includes methods to download and manage multiple claims, list downloaded claims, list the existing blobs, add, remove and change the support to claims, calculate the seeding ratio, and others. It includes various tools inspired by [Brendon Brewer](https://odysee.com/$/list/3a8c64f781ab2ed2d17f8f808c708a5ee0b04423), tuxfoo, miko, and other members of the community.
@@ -45,6 +45,8 @@ The LBRY Foundation does not provide guarantee for the listed projects not under
 - [wol-api](https://github.com/devbrones/wol-api) - WOL-API (API for future impl. in Watch-on-LBRY)
 - [Podcatcher](https://github.com/Hound-fm/podcatcher) - An open source audio media crawler for lbry. Helps you discover music and podcasts.
 
+## LBRY Hosting
+- [Madiator LBRY Seed Node](https://seed.madiator.cloud)
 
 ## Applications bots and addons
 - [lbry_discord_repost_bot](https://github.com/neofutur/lbry_discord_repost_bot) - Discord bot to post new uploads on a LBRY channel to a specific discord channel.
@@ -94,12 +96,11 @@ The LBRY Foundation does not provide guarantee for the listed projects not under
 - [Coinomi](https://www.coinomi.com) - A closeds-source blockchain wallet with LBC support along with 1,700+ more cryptocurrencies.
 - [Komodo](https://komodoplatform.com/en/wallets.html)
 
-## LBC mining (pools and tools) 
+## LBC mining pools and tools 
 - [General LBRY Pools Discord](https://discord.gg/lbrypool) - A place for any and all LBRY pools.
 - [LBRYPool](https://lbrypool.net/) - [GitHub](https://github.com/LBRYFoundation/pool) - Fork of the yiimp Mining Pool focused on compatibility for mining LBRY Credits.
 - [LBRYPool DE](https://lbrypool.de) - A clone of LBRYPool originating in Germany, not affiliated with LBRYPool.net.
 - [ZergPool](https://zergpool.net) - A Multi-Coin Mining Pool based on Yiimp that now supports LBC Mining.
 - [Miner - Madiator](https://github.com/kodxana/lbry-miner) - Alternative miner for the LBRY blockchain.
 
-## LBRY Hosting
-- [Madiator LBRY Seed Node](https://seed.madiator.cloud)
+
