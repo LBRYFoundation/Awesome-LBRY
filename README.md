@@ -9,6 +9,7 @@ The LBRY Foundation does not provide guarantee for the listed projects not under
 - [LBRY clients](#lbry-clients)
 - [LBRY web-based front-ends](#lbry-web-based-front-ends)
 - [Tools](#Tools)
+- [Hosting](#LBRY-Hosting)
 - [Applications bots and addons](#applications-bots-and-addons)
 - [Scripts & one-purpose applications](#scripts--one-purpose-applications)
 - [Analytics](#analytics)
